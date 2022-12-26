@@ -7,3 +7,6 @@
 # Vim generated files
 *~
 *.swp
+
+# Version file
+modpack.json
