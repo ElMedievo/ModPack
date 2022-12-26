@@ -1,0 +1,9 @@
+# Mac OSX generated files
+.DS_Store
+
+# RubyMine
+.idea
+
+# Vim generated files
+*~
+*.swp
